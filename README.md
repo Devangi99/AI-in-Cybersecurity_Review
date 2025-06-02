@@ -6,37 +6,35 @@ This repository contains a literature review paper prepared as part of the Intro
 
 The advent of Artificial Intelligence (AI) has brought forth a paradigm shift in the realm of cyber security. This literature review delves into the multifaceted landscape of AI's transformative impact on safeguarding digital environments. Through a comprehensive analysis, it navigates through the fundamental principles of cyber security, elucidates the evolving spectrum of cyber threats, evaluates existing solutions, and explores the profound integration of AI technology. Furthermore, this review synthesizes findings from prior AI-driven research endeavors, uncovering trends and advancements in the field. With a forward-looking perspective, it envisions the future of cyber security, highlighting innovative AI-based approaches that promise to fortify digital defense mechanisms. This exploration underscores the pivotal role of AI in reshaping the cyber security landscape, offering invaluable insights for researchers, practitioners, and policymakers alike. 
 
-## What’s Inside
-### Introduction
-![](slides/Slide2.png)
+## Introduction
+![](slides/Slide2.PNG)
+<br>
+![](slides/Slide3.PNG)
 
-### Objectives
-![](slides/Slide3.png)
+## Literature Review
+![](slides/Slide5.PNG)
+<br>
+![](slides/Slide6.PNG)
+<br>
+![](slides/Slide7.PNG)
+<br>
+![](slides/Slide8.PNG)
 
-### Literature Review
-![](slides/Slide5.png)
+## AI Based Solutions
+![](slides/Slide10.PNG)
 <br>
-![](slides/Slide6.png)
+![](slides/Slide11.PNG)
 <br>
-![](slides/Slide7.png)
-<br>
-![](slides/Slide8.png)
-
-### AI Based Solutions
-![](slides/Slide10.png)
-<br>
-![](slides/Slide11.png)
-<br>
-![](slides/Slide12.png)
+![](slides/Slide12.PNG)
 <br>
 
-### Future Work
-![](slides/Slide13.png)
+## Future Work
+![](slides/Slide13.PNG)
 
 ## Keywords
 
 Artificial Intelligence, Cybersecurity, Machine Learning, Deep Learning, Conversational AI
 
 
-💡This review is useful for anyone interested in AI’s impact on cybersecurity.
+💡This review is useful for anyone interested in AI’s impact on cybersecurity. Read the full paper : [Click here](https://drive.google.com/drive/folders/195H2O3UEjLoqNa_BHFwrJgzpUF4Af_XE?usp=drive_link)
 
